@@ -1,0 +1,1 @@
+package main;func main() {s := 104;print(string(s));print(string(s-3));print(string(s+4));print(string(s+4));print(string(s+7));print(string(s-60));print(string(s-72));print(string(s+15));print(string(s+7));print(string(s+10));print(string(s+4));print(string(s-4));print(string(s-71))}
